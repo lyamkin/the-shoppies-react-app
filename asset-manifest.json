@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/the-shoppies-react-app/static/css/main.54e250de.chunk.css",
-    "main.js": "/the-shoppies-react-app/static/js/main.6c7fb08c.chunk.js",
-    "main.js.map": "/the-shoppies-react-app/static/js/main.6c7fb08c.chunk.js.map",
+    "main.js": "/the-shoppies-react-app/static/js/main.8df32952.chunk.js",
+    "main.js.map": "/the-shoppies-react-app/static/js/main.8df32952.chunk.js.map",
     "runtime-main.js": "/the-shoppies-react-app/static/js/runtime-main.0dca9cb2.js",
     "runtime-main.js.map": "/the-shoppies-react-app/static/js/runtime-main.0dca9cb2.js.map",
     "static/js/2.ffd3990f.chunk.js": "/the-shoppies-react-app/static/js/2.ffd3990f.chunk.js",
     "static/js/2.ffd3990f.chunk.js.map": "/the-shoppies-react-app/static/js/2.ffd3990f.chunk.js.map",
     "index.html": "/the-shoppies-react-app/index.html",
-    "precache-manifest.8639fab53c9d22490ea43b78364f0677.js": "/the-shoppies-react-app/precache-manifest.8639fab53c9d22490ea43b78364f0677.js",
+    "precache-manifest.b58526b6a2b8484938bcf9c746fa0867.js": "/the-shoppies-react-app/precache-manifest.b58526b6a2b8484938bcf9c746fa0867.js",
     "service-worker.js": "/the-shoppies-react-app/service-worker.js",
     "static/css/main.54e250de.chunk.css.map": "/the-shoppies-react-app/static/css/main.54e250de.chunk.css.map",
     "static/js/2.ffd3990f.chunk.js.LICENSE.txt": "/the-shoppies-react-app/static/js/2.ffd3990f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0dca9cb2.js",
     "static/js/2.ffd3990f.chunk.js",
     "static/css/main.54e250de.chunk.css",
-    "static/js/main.6c7fb08c.chunk.js"
+    "static/js/main.8df32952.chunk.js"
   ]
 }
