@@ -97,7 +97,7 @@ class App extends Component {
 // Function connects to API and return Promise
 
 async function fetchData(searchTitle) {
-    let url = `http://www.omdbapi.com/?apikey=b1e6176f&type=movie&s=${searchTitle}`;
+    let url = `https://www.omdbapi.com/?apikey=b1e6176f&type=movie&s=${searchTitle}`;
     try {
         const response = await fetch(url);
         const data = await response.json();
