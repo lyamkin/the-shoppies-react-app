@@ -15,7 +15,7 @@ const nominations = (props) => {
 
     return (
         <div className="col-md-6">
-            <div className="card">
+            <div className="card mt-4">
                 <div className="card-body">
                     <p className="lead font-weight-bold">Nominations</p>
                     <p className="text-warning lead font-weight-bold">{displayMessage}</p>

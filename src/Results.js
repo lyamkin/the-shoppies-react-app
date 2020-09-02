@@ -19,7 +19,7 @@ const results = (props) => {
 
     return (
         <div className="col-md-6">
-            <div className="card">
+            <div className="card mt-4">
                 <div className="card-body">
                     <p className="lead font-weight-bold">Results for '{state.searchTitle}'</p>
                     <ul className="d-table">

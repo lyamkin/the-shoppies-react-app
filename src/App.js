@@ -79,7 +79,7 @@ class App extends Component {
                         error={this.state.error}
                     />
                 </div>
-                <div className="row mt-4">
+                <div className="row">
                     <Results 
                         state={this.state}
                         nominationsAddHandler = {this.nominationsAddHandler} 
